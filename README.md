@@ -1,3 +1,3 @@
 # khushi-pagol
 this is my first repository
-this is my redmi file of branch1
+this is my first repository file of branch 1
